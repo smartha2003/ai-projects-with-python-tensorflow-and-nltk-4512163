@@ -1,23 +1,82 @@
-# AI Projects with Python, TensorFlow and NLTK
-This is the repository for the LinkedIn Learning course `AI Projects with Python, TensorFlow and NLTK`. The full course is available from [LinkedIn Learning][lil-course-url].
+# AI Projects with Python, TensorFlow, and NLTK
 
-![lil-thumbnail-url]
+This repository contains my notes, code, and personal insights for the LinkedIn Learning course **“AI Projects with Python, TensorFlow and NLTK”**, taught by **Dhhyey Desai** — a Google-Certified Python Expert and Microsoft-Certified Instructor.
 
-Are you looking to boost your technical know-how with AI? This course is designed to help you develop the skills you need to know to start building your own AI projects in Python. Join instructor and Google Certified Python Expert Dhhyey Desai as he delves into the fundamentals of image classification using the powerful TensorFlow library. The second section of the course is focused on natural language processing (NLP) and the core concepts of sentiment analysis. Along the way, get introduced to the NLTK library, discovering how to use pretrained analyzers and gathering techniques for accurately analyzing text data. By the end of this course, you’ll be prepared to create a personalized model with TorchRec, the PyTorch domain library that lets you build and analyze your own recommender systems for rating data.</p><p>This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time-all while using a tool that you'll likely encounter in the workplace. Check out the "Using GitHub Codespaces with this course" video to learn how to get started.
+## 📚 Course Overview
 
-### Instructor
+This course is designed to help you get hands-on experience building practical AI projects in Python using powerful machine learning libraries. It’s beginner-friendly and well-suited for developers looking to build foundational skills in:
 
-Dhhyey Desai
+- Image classification using **TensorFlow**
+- Sentiment analysis using **Natural Language Processing (NLP)** and **NLTK**
+- Building recommender systems with **TorchRec** from the PyTorch ecosystem
 
-Google-Certified Python Expert, Microsoft-Certified Instructor
+Throughout the course, you’ll gain exposure to real-world AI workflows, from data preprocessing to model training and evaluation.
 
-                            
+---
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/dhhyey-desai?u=104).
+## 🧠 What I’m Doing Differently
 
+This repository is more than just a code dump — I'm also including:
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+- ✅ **My personal notes and takeaways** from each module  
+- ✅ **Inline code comments** explaining the *why* behind each step  
+- ✅ **Refinements and experiments** on top of the original course content  
+- ✅ **Bonus resources** and ideas for deeper learning
 
-[lil-course-url]: https://www.linkedin.com/learning/ai-projects-with-python-tensorflow-and-nltk
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEjbf3ej9HE6g/learning-public-crop_675_1200/0/1710956162347?e=2147483647&v=beta&t=7FF29GVLT3qIISMOJ1XYm56nj1H-v3oci5GSGvrCW8Q
+---
 
+## 💻 Technologies Used
+
+- Python 3.x  
+- TensorFlow  
+- NLTK  
+- PyTorch (TorchRec)  
+- GitHub Codespaces
+
+---
+
+## 🧪 Project Sections
+
+### 1. Image Classification with TensorFlow
+- Understand convolutional layers, pooling, and dense networks
+- Build a basic image classifier on the CIFAR-10 dataset
+- Analyze accuracy and improve generalization
+
+### 2. Natural Language Processing with NLTK
+- Perform sentiment analysis using pretrained analyzers
+- Clean, tokenize, and process text data
+- Evaluate model performance on real text data
+
+### 3. Recommender Systems with TorchRec
+- Introduction to user-item interactions
+- Build a recommendation model for rating data
+- Evaluate and tune your model
+
+---
+
+## 🚀 GitHub Codespaces
+
+This course integrates directly with **GitHub Codespaces** — a cloud-based dev environment that lets you start coding instantly in VS Code without setting up anything locally.
+
+🧠 To get started, check out the video:  
+**"Using GitHub Codespaces with this course"**
+
+---
+
+## 🧾 License
+
+This repo is for educational purposes, following the structure of the original LinkedIn Learning course.
+
+---
+
+## 👨‍🏫 Instructor
+
+**Dhhyey Desai**  
+Google-Certified Python Expert, Microsoft-Certified Instructor  
+Check out his [LinkedIn Learning profile](https://www.linkedin.com/learning/instructors/dhhyey-desai)
+
+---
+
+## ⭐ Feel free to fork, explore, and extend!
+
+If you're also taking this course, feel free to fork this repo and add your own notes and projects. Let's learn together! 🙌
